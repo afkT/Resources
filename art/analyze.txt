@@ -1,0 +1,83 @@
+
+
+Analyze -> Run Inspection by Name
+
+
+Analyze -> Inspect Code
+
+
+===========
+= Analyze =
+===========
+
+
+
+Missing permissions
+
+
+
+Unused assignment
+
+
+
+Unused Declaration java
+
+
+
+lambda alternative
+
+
+
+anonymous type can be replaced with lambda
+
+
+==========
+= Kotlin =
+==========
+
+
+local 'var' is never modified and can be declared as 'val'
+
+
+
+class member can have 'private' visibility
+
+
+
+unnecessary type argument
+
+
+
+explicit 'get' or 'set' call
+
+
+
+usage of redundant or deprecated syntax or deprecated
+
+
+
+two comparisons should be converted to a range check
+
+
+
+replace java static method with kotlin analog
+
+
+
+package name does not match containing directory
+
+
+
+Redundant curly braces in string template
+
+
+
+Remove empty primary constructor
+
+
+
+Remove redundant qualifier name
+
+
+
+Accessor call that can be replaced with property access syntax

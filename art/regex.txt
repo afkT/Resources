@@ -1,0 +1,89 @@
+
+
+
+
+[。，：；“”‘’《》（）【】￥¥！？—]
+
+
+
+\n[\s]+\*\n
+
+
+
+\n[\s]+\*\u000A
+
+
+
+adb logcat > D:/logcat.txt
+
+
+=========
+= Regex =
+=========
+
+
+
+Dev[\w]+Engine\.(get|set)Engine\(
+
+
+
+android\:id\=\"\@\+id\/[^v]
+android\:id\=\"\@\+id\/vid_[fai][\w]+_
+android\:id\=\"\@\+id\/vid_[\w]+_
+vid_[\w]+_
+
+
+
+\/\/[ ]+\/\*
+
+
+
+\/\/[ ]{5,10000}
+
+
+
+[abcdefg]:/
+[abcdefg]:\\
+\\[\w][\w]+\\
+
+
+
+((implementation)|(api))[ ]+['"]
+
+
+?>
+T : [\w<>]+\?\>
+
+
+set[A-Z]{1}[a-z]{1}[A-Z]{1}
+setm
+getm
+etm
+ism
+
+
+
+[ ]+boolean[ ]+is[A-Za-z]+
+
+[ ]+boolean[ ]+[m]{0,1}is[A-Za-z]+
+
+[ ]+boolean[ ]+[m]{0,1}[Ii]{1}s[A-Za-z]+
+
+[ ]+boolean[ ]+[m]{0,1}[Ii]{1}s[A-Za-z]+[ ]+=[ ]+\w+;
+
+
+// ==========
+// = kotlin =
+// ==========
+
+
+[ ]+[m]{0,1}is[A-Z]+[; =]+
+
+
+va[rl]{1} [\w_]+: [\w_<>?]+ =
+
+
+va[rl]{1} [\w_]+: [\w_<>?]+ = [^n]
+
+
+va[rl]{1} [\w_]+: [\w_<>?]+ = null
