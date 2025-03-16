@@ -89,4 +89,4 @@ if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
 
 
 [WifiHotUse]: https://github.com/afkT/DevUtils/blob/master/application/DevUtilsApp/src/main/java/utils_use/wifi/WifiHotUse.java
-[WifiHotUtils]: https://github.com/afkT/DevUtils/blob/master/lib/DevApp/src/main/java/dev/utils/app/wifi/WifiHotUtils.java
+[WifiHotUtils]: https://github.com/afkT/DevUtils/blob/master/lib/DevDeprecated/src/main/java/dev/utils/app/wifi/WifiHotUtils.java

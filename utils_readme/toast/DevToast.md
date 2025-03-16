@@ -259,9 +259,9 @@ private static class TempStyle implements IToast.Style {
 
 
 [DevToastUse]: https://github.com/afkT/DevUtils/blob/master/application/DevUtilsApp/src/main/java/utils_use/toast/DevToastUse.java
-[包目录]: https://github.com/afkT/DevUtils/blob/master/lib/DevApp/src/main/java/dev/utils/app/toast/toaster
-[DevToast]: https://github.com/afkT/DevUtils/blob/master/lib/DevApp/src/main/java/dev/utils/app/toast/toaster/DevToast.java
-[IToast]: https://github.com/afkT/DevUtils/blob/master/lib/DevApp/src/main/java/dev/utils/app/toast/toaster/IToast.java
-[IToastImpl]: https://github.com/afkT/DevUtils/blob/master/lib/DevApp/src/main/java/dev/utils/app/toast/toaster/IToastImpl.java
-[ToastFactory]: https://github.com/afkT/DevUtils/blob/master/lib/DevApp/src/main/java/dev/utils/app/toast/toaster/ToastFactory.java
-[DefaultToastStyle]: https://github.com/afkT/DevUtils/blob/master/lib/DevApp/src/main/java/dev/utils/app/toast/toaster/DefaultToastStyle.java
+[包目录]: https://github.com/afkT/DevUtils/blob/master/lib/DevDeprecated/src/main/java/dev/utils/app/toast/toaster
+[DevToast]: https://github.com/afkT/DevUtils/blob/master/lib/DevDeprecated/src/main/java/dev/utils/app/toast/toaster/DevToast.java
+[IToast]: https://github.com/afkT/DevUtils/blob/master/lib/DevDeprecated/src/main/java/dev/utils/app/toast/toaster/IToast.java
+[IToastImpl]: https://github.com/afkT/DevUtils/blob/master/lib/DevDeprecated/src/main/java/dev/utils/app/toast/toaster/IToastImpl.java
+[ToastFactory]: https://github.com/afkT/DevUtils/blob/master/lib/DevDeprecated/src/main/java/dev/utils/app/toast/toaster/ToastFactory.java
+[DefaultToastStyle]: https://github.com/afkT/DevUtils/blob/master/lib/DevDeprecated/src/main/java/dev/utils/app/toast/toaster/DefaultToastStyle.java
