@@ -64,15 +64,15 @@ public class BaseApplication
 
 
 [目录]: https://github.com/afkT/DevUtils/blob/master/application/DevUtilsApp/src/main/java/utils_use
-[DevLogger 日志工具类文档]: https://github.com/afkT/Resources/blob/master/utils_readme/logger/DevLogger.md
-[DevToast Toast工具类文档]: https://github.com/afkT/Resources/blob/master/utils_readme/toast/DevToast.md
-[ToastTintUtils Toast美化工具类文档]: https://github.com/afkT/Resources/blob/master/utils_readme/toast/ToastTintUtils.md
-[SnackbarUtils Snackbar工具类文档]: https://github.com/afkT/Resources/blob/master/utils_readme/snackbar/SnackbarUtils.md
-[FileRecordUtils 日志、异常文件记录保存工具类文档]: https://github.com/afkT/Resources/blob/master/utils_readme/record/FileRecord.md
-[SharedUtils - SharedPreferences工具类文档]: https://github.com/afkT/Resources/blob/master/utils_readme/share/SharedUtils.md
-[DevCache - 缓存工具类文档]: https://github.com/afkT/Resources/blob/master/utils_readme/cache/DevCache.md
-[TimerManager 定时器工具类文档]: https://github.com/afkT/Resources/blob/master/utils_readme/timer/TimerManager.md
-[DevThreadManager - 线程工具类文档]: https://github.com/afkT/Resources/blob/master/utils_readme/thread/DevThreadManager.md
-[DevMediaManager 多媒体工具类文档]: https://github.com/afkT/Resources/blob/master/utils_readme/media/DevMediaManager.md
-[WifiHotUtils - Wifi热点工具类文档]: https://github.com/afkT/Resources/blob/master/utils_readme/wifi/WifiHotUtils.md
+[DevLogger 日志工具类文档]: https://github.com/afkT/Resources/blob/main/utils_readme/logger/DevLogger.md
+[DevToast Toast工具类文档]: https://github.com/afkT/Resources/blob/main/utils_readme/toast/DevToast.md
+[ToastTintUtils Toast美化工具类文档]: https://github.com/afkT/Resources/blob/main/utils_readme/toast/ToastTintUtils.md
+[SnackbarUtils Snackbar工具类文档]: https://github.com/afkT/Resources/blob/main/utils_readme/snackbar/SnackbarUtils.md
+[FileRecordUtils 日志、异常文件记录保存工具类文档]: https://github.com/afkT/Resources/blob/main/utils_readme/record/FileRecord.md
+[SharedUtils - SharedPreferences工具类文档]: https://github.com/afkT/Resources/blob/main/utils_readme/share/SharedUtils.md
+[DevCache - 缓存工具类文档]: https://github.com/afkT/Resources/blob/main/utils_readme/cache/DevCache.md
+[TimerManager 定时器工具类文档]: https://github.com/afkT/Resources/blob/main/utils_readme/timer/TimerManager.md
+[DevThreadManager - 线程工具类文档]: https://github.com/afkT/Resources/blob/main/utils_readme/thread/DevThreadManager.md
+[DevMediaManager 多媒体工具类文档]: https://github.com/afkT/Resources/blob/main/utils_readme/media/DevMediaManager.md
+[WifiHotUtils - Wifi热点工具类文档]: https://github.com/afkT/Resources/blob/main/utils_readme/wifi/WifiHotUtils.md
 [TextViewUtils - 字体计算工具类使用]: https://github.com/afkT/DevUtils/blob/master/application/DevUtilsApp/src/main/java/utils_use/text/TextCalcUse.java

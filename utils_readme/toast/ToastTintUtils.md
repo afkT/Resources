@@ -275,9 +275,9 @@ private static class TempStyle implements ToastTintUtils.Style {
 
 [ToastTintUse]: https://github.com/afkT/DevUtils/blob/master/application/DevUtilsApp/src/main/java/utils_use/toast/ToastTintUse.java
 [ToastTintUtils]: https://github.com/afkT/DevUtils/blob/master/lib/DevDeprecated/src/main/java/dev/utils/app/toast/ToastTintUtils.java
-[toast_success_png]: https://github.com/afkT/Resources/blob/master/utils_readme/toast/toast_tint/success.png
-[toast_error_png]: https://github.com/afkT/Resources/blob/master/utils_readme/toast/toast_tint/error.png
-[toast_info_png]: https://github.com/afkT/Resources/blob/master/utils_readme/toast/toast_tint/info.png
-[toast_normal_png]: https://github.com/afkT/Resources/blob/master/utils_readme/toast/toast_tint/normal.png
-[toast_warning_png]: https://github.com/afkT/Resources/blob/master/utils_readme/toast/toast_tint/warning.png
-[toast_custom_png]: https://github.com/afkT/Resources/blob/master/utils_readme/toast/toast_tint/custom.png
+[toast_success_png]: https://github.com/afkT/Resources/blob/main/utils_readme/toast/toast_tint/success.png
+[toast_error_png]: https://github.com/afkT/Resources/blob/main/utils_readme/toast/toast_tint/error.png
+[toast_info_png]: https://github.com/afkT/Resources/blob/main/utils_readme/toast/toast_tint/info.png
+[toast_normal_png]: https://github.com/afkT/Resources/blob/main/utils_readme/toast/toast_tint/normal.png
+[toast_warning_png]: https://github.com/afkT/Resources/blob/main/utils_readme/toast/toast_tint/warning.png
+[toast_custom_png]: https://github.com/afkT/Resources/blob/main/utils_readme/toast/toast_tint/custom.png
